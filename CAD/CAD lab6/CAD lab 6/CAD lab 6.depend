@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653834128 source:c:\users\user\onedrive\Υπολογιστής\c programms\cad lab 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1646775887 source:c:\users\user\onedrive\Υπολογιστής\poker calculator\cad_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1646846062 source:c:\users\user\onedrive\Υπολογιστής\c programms\cad_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+

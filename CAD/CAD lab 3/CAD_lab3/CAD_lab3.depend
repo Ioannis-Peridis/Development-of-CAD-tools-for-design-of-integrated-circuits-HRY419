@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649942139 source:c:\users\user\onedrive\Υπολογιστής\c programms\cad_lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1652733761 source:c:\users\user\onedrive\Υπολογιστής\cad\cad lab 3\cad_lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

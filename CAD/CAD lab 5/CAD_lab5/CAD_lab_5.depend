@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1652796808 source:c:\users\user\onedrive\Υπολογιστής\c programms\cad_lab_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1653148542 source:c:\users\user\onedrive\Υπολογιστής\c programms\cad_lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1653828921 source:c:\users\user\onedrive\Υπολογιστής\cad\cad lab 5\cad_lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
